@@ -1,1 +1,5 @@
-
+return {
+    ["SLPN] = "2026-01-25",
+    ["Volleyball Legends"] = "2026-01-20",
+    ["SLPN Classic"] = "2026-01-18",
+}
